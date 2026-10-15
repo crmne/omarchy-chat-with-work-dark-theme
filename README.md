@@ -48,8 +48,9 @@ Sampled from the design tokens of [chatwithwork.com](https://chatwithwork.com).
 Original wallpapers made for this theme from the brand's own artwork:
 
 - `01-sticker.jpg`: The sticker mark centered with a deep shadow over a blurred rainbow glow, on a faint dot grid
-- `02-orbit.jpg`: The connector orbit: hairline rings (solid, dashed, faint), mark in a surface disc, neon signal satellites
-- `03-live-wire.jpg`: A rainbow-lit hairline across the middle with one glowing orange dot, over a dim low rainbow aurora
+- `02-logotype.jpg`: The logo with its name, centered
+- `03-orbit.jpg`: The connector orbit: hairline rings (solid, dashed, faint), mark in a surface disc, neon signal satellites
+- `04-live-wire.jpg`: A rainbow-lit hairline across the middle with one glowing orange dot, over a dim low rainbow aurora
 
 ## Requirements
 
